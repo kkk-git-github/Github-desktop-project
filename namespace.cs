@@ -1,2 +1,2 @@
-Console.Writeln("Did you have the COVID vaccination (a least 2 doses)?");
-Console.ReadLine();
+using System;
+namespace helloWorld{class helloWorld{static void main(String[] args){bool printing = false; Console.WriteLine(printing);}}}
