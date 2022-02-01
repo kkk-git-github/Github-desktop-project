@@ -5,3 +5,6 @@ class open {
   }
 }
 
+note = new open("note", "Oscar Nguyen");
+
+document.writeln(note.write);
